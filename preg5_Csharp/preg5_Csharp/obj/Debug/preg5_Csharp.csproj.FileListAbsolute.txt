@@ -1,0 +1,13 @@
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\bin\Debug\preg5_Csharp.exe.config
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\bin\Debug\preg5_Csharp.exe
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\bin\Debug\preg5_Csharp.pdb
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.Properties.Resources.resources
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.csproj.GenerateResource.Cache
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.exe
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.pdb
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.Login.resources
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.DetallePersonaForm.resources
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.FuncionarioForm.resources
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.AgregarPersonaForm.resources
+C:\xampp\htdocs\324-primer-parcial\preg5\preg5_Csharp\preg5_Csharp\obj\Debug\preg5_Csharp.AgregarCatastroForm.resources
